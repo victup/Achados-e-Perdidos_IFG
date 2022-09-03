@@ -20,3 +20,8 @@ O projeto foi apresentado na Semana de Educação, Ciência e Tecnologia do IFG,
 
 > Certificado: https://drive.google.com/file/d/1nHtoEE6IJ6TjRTcAq9uRATEhpIf4ENHk/view?usp=sharing
 
+## Colaboradores
+
+* Filipe Maciel: Orientador de Estágio
+* Ana Lívia: Desenvolvedor Back-End
+* Víctor Gonçalves: Desenvolvedor Front-End
